@@ -12,7 +12,7 @@
 - ✨ I love 🥋 | 🏊‍♂️ | 📖 | 📸
 - 📫 How to reach me ...
 
-  <a href="https://twitter.com/mortal22soul">Twitter</a>
+  <a href="https://twitter.com/mortal22soul" target="_blank" rel="noopener noreferrer">Twitter</a>
   
   <a href="https://www.instagram.com/_mortal22soul_/">Instagram</a>
   
