@@ -7,6 +7,7 @@
 
 ### 👋 Hi, I’m Mortal22Soul
 - 👀 I’m interested in linux and coding.
+ 
 - 🌱 I’m currently learning bash shell scripting and also trying out HTML5 & CSS web developement
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - ✨ I love 🥋 | 🏊‍♂️ | 📖 | 📸
