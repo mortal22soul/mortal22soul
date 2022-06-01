@@ -5,7 +5,7 @@
     <!---<img alt="Mortal22Soul's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortal22Soul&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" />--->
 </p>
 
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I’m Mortal22Soul
+### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="3px"> Hi, I’m Mortal22Soul
 - 👀 I’m interested in linux and coding.
  
 - 🌱 I’m currently learning bash shell scripting and also trying out HTML5 & CSS web developement.
