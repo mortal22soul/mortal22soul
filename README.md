@@ -1,8 +1,8 @@
 <!---stats credit  (https://github.com/anuraghazra/github-readme-stats)--->
 
 <p align="center">
-    <img alt="Mortal22Soul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mortal22Soul&show_icons=true&hide_border=true&count_private=true" />
-    <!---<img alt="Mortal22Soul's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortal22Soul&layout=compact" />--->
+    <img alt="Mortal22Soul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mortal22Soul&show_icons=true&hide_border=true&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" />
+    <!---<img alt="Mortal22Soul's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortal22Soul&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" />--->
 </p>
 
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I’m Mortal22Soul
