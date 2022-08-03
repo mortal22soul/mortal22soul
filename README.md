@@ -18,6 +18,8 @@
   <a href="https://twitter.com/mortal22soul" target="_blank" rel="noopener noreferrer">Twitter</a>
   
   <a href="https://www.instagram.com/mortal22soul/">Instagram</a>
+  
+  Discord : Mortal22Soul#1217
 
 <!--![](https://visitor-badge.glitch.me/badge?page_id=Mortal22Soul.Mortal22Soul)-->
 
