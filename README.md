@@ -3,9 +3,17 @@
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"> Hi, I’m Mortal22Soul
 - 👀 I’m interested in linux and coding.
  
-- 🌱 I’m currently learning bash shell scripting and also trying out HTML & CSS web developement.
+- 🌱 I’m currently trying out HTML & CSS web developement.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - ✨ I love 🥋 | 🏊‍♂️ | 📖 | 📸
+
+- 📫 How to reach me ...
+
+<p align="center">
+<a href="https://instagram.com/mortal22soul"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.reddit.com/user/Mortal22Soul"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
+<a href="https://discordapp.com/users/859330689329004554"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<br>
 
 <p align="center">
     <img alt="Mortal22Soul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mortal22Soul&show_icons=true&hide_border=true&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" />
@@ -13,17 +21,15 @@
     <img alt="Mortal22Soul's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortal22Soul&layout=compact&hide_border=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" />
 </p>
 
-- 📫 How to reach me ...
-
-  <a href="https://twitter.com/mortal22soul" target="_blank" rel="noopener noreferrer">Twitter</a>
-  
-  <a href="https://www.instagram.com/mortal22soul/">Instagram</a>
-  
-  Discord : Mortal22Soul#1217
-
 <!--![](https://visitor-badge.glitch.me/badge?page_id=Mortal22Soul.Mortal22Soul)-->
 
 <!---
 Mortal22Soul/Mortal22Soul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<br>
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
+</p>
