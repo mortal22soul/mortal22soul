@@ -34,5 +34,5 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <p align="center">
-   <img src="gray0_ctp_on_line.png"/>
+   <img src="assets/gray0_ctp_on_line.png"/>
 </p>
