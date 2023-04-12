@@ -27,6 +27,15 @@
     <img alt="Mortal22Soul's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortal22Soul&layout=compact&hide_border=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" />
 </p>
 
+### Software & Tools
+
+<p>
+    <img alt="Terminal" src="https://img.shields.io/badge/Terminal-000000?logo=windowsterminal&logoColor=4D4D4D&style=flat-square">
+    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white">
+
+</p>
+
 <!---
 Mortal22Soul/Mortal22Soul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
