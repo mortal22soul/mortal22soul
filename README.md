@@ -3,8 +3,9 @@
 <img src="assets/header.png"/>
 
 ### <img src="assets/Hi.gif" width="30"> Hi, I’m Mortal22Soul
+
 - 👀 I’m interested in linux and coding.
- 
+
 - 🌱 I’m currently trying out HTML & CSS web developement.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - ✨ I love 🥋 | 🏊‍♂️ | 📖 | 📸
@@ -18,7 +19,7 @@
 <a href="https://discordapp.com/users/859330689329004554"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <br>
 
-<h4 align="center">I currently know HTML, CSS and Tailwindcss and have basic knowledge about Java, Python and MySQL.</h4>
+<h4 align="center">I currently know HTML, CSS, Tailwind CSS and Git and have basic knowledge about Java, Python and MySQL.</h4>
 
 <p align="center">
     <img alt="Mortal22Soul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mortal22Soul&show_icons=true&hide_border=true&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" />
