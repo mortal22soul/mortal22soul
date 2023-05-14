@@ -6,9 +6,9 @@
 
 - 👀 I’m interested in linux and coding.
 
-- 🌱 I’m currently trying out HTML & CSS web developement.
+- 🌱 I’m currently learning web developement.
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- ✨ I love 🥋 | 🏊‍♂️ | 📖 | 📸
+- ✨ I love 🥋 | 🏊‍♂️ | 🚴🏽‍♂️ | 📸
 
 - 📫 How to reach me ...
 
