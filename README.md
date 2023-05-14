@@ -4,7 +4,7 @@
 
 ### <img src="assets/Hi.gif" width="30"> Hi, I’m Mortal22Soul
 
-- 👀 I’m interested in linux and coding.
+- 👀 I’m interested in linux, coding and FOSS.
 
 - 🌱 I’m currently learning web developement.
 <!--- - 💞️ I’m looking to collaborate on ... --->
