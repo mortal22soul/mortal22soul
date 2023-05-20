@@ -14,17 +14,14 @@
 
 <p align="center">
 <a href="https://twitter.com/mortal22soul"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://instagram.com/mortal22soul"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.reddit.com/user/Mortal22Soul"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
-<a href="https://discordapp.com/users/859330689329004554"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<br>
 
 <h4 align="center">I currently know HTML, CSS, Tailwind CSS and Git and have basic knowledge about Java, Python and MySQL.</h4>
 
 <p align="center">
     <img alt="Mortal22Soul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mortal22Soul&show_icons=true&hide_border=true&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" />
     <br>
-    <img alt="Mortal22Soul's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortal22Soul&layout=compact&hide_border=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" />
+    <!--<img alt="Mortal22Soul's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortal22Soul&layout=compact&hide_border=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB" />-->
 </p>
 
 ### Software & Tools
