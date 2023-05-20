@@ -5,16 +5,15 @@
 ### <img src="assets/Hi.gif" width="30"> Hi, I’m Mortal22Soul
 
 - 👀 I’m interested in linux, coding and FOSS.
-
 - 🌱 I’m currently learning web developement.
-<!--- - 💞️ I’m looking to collaborate on ... --->
+- 💞️ I’m looking to collaborate on open source projects.
 - ✨ I love 🥋 | 🏊‍♂️ | 🚴🏽‍♂️ | 📸
-
 - 📫 How to reach me ...
 
 <p align="center">
 <a href="https://twitter.com/mortal22soul"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.reddit.com/user/Mortal22Soul"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
+</p>
 
 <h4 align="center">I currently know HTML, CSS, Tailwind CSS and Git and have basic knowledge about Java, Python and MySQL.</h4>
 
@@ -27,13 +26,12 @@
 ### Software & Tools
 
 <p align="center">
-    <img alt="Terminal" src="https://img.shields.io/badge/Terminal-000000?logo=windowsterminal&logoColor=4D4D4D&style=flat-square">
+    <img alt="Terminal" src="https://img.shields.io/badge/Terminal-000000?logo=windowsterminal&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-
 </p>
 
 <!---
