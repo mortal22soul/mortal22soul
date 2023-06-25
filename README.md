@@ -4,10 +4,10 @@
 
 ### <img src="assets/Hi.gif" width="30"> Hi, I’m Mortal22Soul
 
-- 👀 I’m interested in linux, coding and FOSS.
-- 🌱 I’m currently learning web developement and networking.
+- 👀 I’m interested in linux, coding and open source
+- 🌱 I’m currently learning java and javascript
 - ✨ I love 🥋 | 🏊‍♂️ | 🚴🏽‍♂️ | 📸
-- 📫 How to reach me <a href="https://twitter.com/mortal22soul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mortal22soul" height="20" width="40" /></a><a href="https://instagram.com/mortal22soul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mortal22soul" height="20" width="40" /></a>
+- 📫 You can reach me via [Twitter](https://twitter.com/mortal22soul) or [Instagram](https://instagram.com/mortal22soul)
 
 <p>
     <img alt="Mortal22Soul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mortal22Soul&show_icons=true&hide_border=true&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&locale=en" />
