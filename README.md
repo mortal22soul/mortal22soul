@@ -2,7 +2,7 @@
 
 <img src="assets/header.png"/>
 
-### <img src="assets/Hi.gif" width="30"> Hi, I’m Mortal22Soul
+### <img src="assets/Hi.gif" width="30"> Hi, I’m Aryan Mehesare
 
 - 👀 I’m interested in linux, coding and open source
 - 🌱 I’m currently learning java and javascript
