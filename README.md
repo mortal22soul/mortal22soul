@@ -5,7 +5,7 @@
 ### <img src="assets/Hi.gif" width="30"> Hi, I’m Aryan Mehesare
 
 - 👀 I’m interested in linux, coding and open source
-- 🌱 I’m currently learning java and javascript
+- 🌱 I’m currently learning app development
 - ✨ I love 🥋 | 🏊‍♂️ | 🚴🏽‍♂️ | 📸
 - 📫 You can reach me via [Twitter](https://twitter.com/mortal22soul) or [Instagram](https://instagram.com/mortal22soul)
 
