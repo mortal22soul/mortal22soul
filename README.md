@@ -2,10 +2,10 @@
 
 ### <img src="assets/Hi.gif" width="30"> Hi, I’m Aryan Mehesare
 
-- 👀 I’m interested in linux, programming and open source
-- 🌱 I’m currently learning full-stack development
+- 👀 I’m interested in linux and open source software
+- 🌱 I’m currently learning full-stack development and devops
 - ✨ I love 🥋 | 🏊‍♂️ | 🚴🏽‍♂️ | 📸
-- 📫 You can reach me via [X](https://x.com/mortal22soul) or [Instagram](https://instagram.com/mortal22soul)
+- 📫 You can reach me via [linkedin](https://www.linkedin.com/in/aryanmehesare/)
 
 <p align="center">
     <!-- <img alt="Mortal22Soul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mortal22Soul&show_icons=true&hide_border=true&count_private=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB&locale=en" />
